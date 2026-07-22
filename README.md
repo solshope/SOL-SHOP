@@ -1,14 +1,13 @@
 # SOL-SHOP
-فروشگاهی اینترنتی 
 <!DOCTYPE html>
 <html lang="fa">
 <head>
   <meta charset="UTF-8">
-  <title>فروشگاه من</title>
+  <title>فروشگاه سول شاپ </title>
 </head>
 <body>
-  <h1>به فروشگاه من خوش آمدید 🛍️</h1>
-  <p>این اولین سایت من است.</p>
+  <h1>به فروشگاه SOL SHOP خوش آمدید 🛍️</h1>
+  <p>اعتماد شما اعتبار ماست .</p>
 
   <button>مشاهده محصولات</button>
 </body>
